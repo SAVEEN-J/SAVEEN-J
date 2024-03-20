@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @SAVEEN-J
-- 👀 I’m interested in MERN STACK
-- 🌱 I’m currently learning MERN
-- 📫 How to reach me saveenj1996@gmail.com
+👋 Hi, I'm @SAVEEN-J
+👀 I'm interested in web development, particularly in the MERN stack
+🎓 I've completed a course in the MERN stack
+💼 Check out my portfolio: [ URL]
+🔗 Connect with me on LinkedIn: [(https://www.linkedin.com/in/saveen-j/)]
+📫 You can reach me at saveenj1996@gmail.com
 
 <!---
 SAVEEN-J/SAVEEN-J is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
